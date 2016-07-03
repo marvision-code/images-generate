@@ -1,0 +1,25 @@
+{
+    "name": "marvision-code/images-generate",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marwen Hlaoui",
+            "email": "marwenhlaoui@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+      
+    },
+    "require-dev": {
+       
+    },
+    "autoload": {
+      "psr-4": { 
+          "Marvision\\ImagesGenerate\\" : "src/"
+      },
+       "files": [
+        "src/helpers.php"
+      ]
+    }
+}
