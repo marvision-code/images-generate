@@ -1,1 +1,2 @@
-<center><h1>Hello in Marvison Application using Laravel 5.2 </h1></center>
+<center><h1>Hello in ImagesGenerate </h1></center><br>
+<img src="{{ asset($url) }}">

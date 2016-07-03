@@ -4,7 +4,7 @@ namespace Marvision\ImagesGenerate;
 
 use Illuminate\Support\ServiceProvider;
 
-class MarvisionServiceProvider extends ServiceProvider
+class ImagesGenerateServiceProvider extends ServiceProvider
 {
 	public function boot()
 	{
